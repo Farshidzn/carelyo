@@ -112,6 +112,10 @@
 *let var1: string = "Hello";
 *var1 = 10;
 *console.log(var1);
+8.
+*a) As a new user of the online shopping website, I want to be able to create an account so that I can save my preferences and easily track my orders.
+*b)
+*)Reuirements gathering, Prioritization, Development guidance, Testing, communication
 9.
 *a) git is a version control system and it’s used for changes in files.
 *b) Git hooks are scripts that run automatically every time a particular event occurs in a Git repository
