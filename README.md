@@ -1,5 +1,5 @@
 
-###### h6 1.Long pulling is used for getting information in a specific time from back-end. 
+###### 1.Long pulling is used for getting information in a specific time from back-end. 
 *a) 
 *client:
 *function poll() {
