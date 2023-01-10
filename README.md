@@ -42,13 +42,13 @@ ___
 ---
 
 ***
-3. Get method, to retrieve data. PUT method creates a resource or replace a target resource. Delete method, deletes the specified resource. Post method sends data to *server. 
+###### 3. Get method, to retrieve data. PUT method creates a resource or replace a target resource. Delete method, deletes the specified resource. Post method sends data to *server. 
 ___
 
 ---
 
 ***
-4. An array is a collection of data that is stored in a sequence of memory and we can access them by calling the index number. We can store integer, float, string and *Boolean in an array. Object is used to represent a ‘thing’. It can be anything like cars, person etc.
+###### 4. An array is a collection of data that is stored in a sequence of memory and we can access them by calling the index number. We can store integer, float, string and *Boolean in an array. Object is used to represent a ‘thing’. It can be anything like cars, person etc.
 ___
 
 ---
